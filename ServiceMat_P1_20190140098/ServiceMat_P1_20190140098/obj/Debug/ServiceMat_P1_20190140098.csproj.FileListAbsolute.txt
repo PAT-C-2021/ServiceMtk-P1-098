@@ -1,0 +1,7 @@
+D:\Smester 5\PAT\ServiceMat_P1_20190140098\ServiceMat_P1_20190140098\bin\Debug\ServiceMat_P1_20190140098.dll.config
+D:\Smester 5\PAT\ServiceMat_P1_20190140098\ServiceMat_P1_20190140098\bin\Debug\ServiceMat_P1_20190140098.dll
+D:\Smester 5\PAT\ServiceMat_P1_20190140098\ServiceMat_P1_20190140098\bin\Debug\ServiceMat_P1_20190140098.pdb
+D:\Smester 5\PAT\ServiceMat_P1_20190140098\ServiceMat_P1_20190140098\obj\Debug\ServiceMat_P1_20190140098.csproj.AssemblyReference.cache
+D:\Smester 5\PAT\ServiceMat_P1_20190140098\ServiceMat_P1_20190140098\obj\Debug\ServiceMat_P1_20190140098.csproj.CoreCompileInputs.cache
+D:\Smester 5\PAT\ServiceMat_P1_20190140098\ServiceMat_P1_20190140098\obj\Debug\ServiceMat_P1_20190140098.dll
+D:\Smester 5\PAT\ServiceMat_P1_20190140098\ServiceMat_P1_20190140098\obj\Debug\ServiceMat_P1_20190140098.pdb
